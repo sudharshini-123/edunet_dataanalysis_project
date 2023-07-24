@@ -1,1 +1,1 @@
-# edunet_dataanalysis_project
+# edunet_data_analysis_project
